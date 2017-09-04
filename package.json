@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "asar": "^0.13.0",
     "electron": "^1.7.5",
+    "electron-packager": "^9.0.1",
     "electron-reload": "^1.2.1"
   }
 }
